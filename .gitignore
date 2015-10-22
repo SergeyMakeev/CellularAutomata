@@ -1,2 +1,4 @@
 *.ilk
 *.suo
+*.user
+Temp/
